@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.ThomasGorisse/architecture-mcp",
-  "description": "Architecture MCP — 3D concepts, floor plans, materials, lighting, cost estimates, specs.",
+  "name": "io.github.sceneview-tools/architecture-mcp",
+  "description": "Architecture MCP \u2014 3D concepts, floor plans, materials, lighting, cost estimates, specs.",
   "repository": {
-    "url": "https://github.com/ThomasGorisse/architecture-mcp",
+    "url": "https://github.com/sceneview-tools/architecture-mcp",
     "source": "github"
   },
   "version": "1.0.1",
